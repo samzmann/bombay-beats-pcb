@@ -1,0 +1,12 @@
+### Footprint positions - created on 2024-04-17T16:32:32-0400 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref        Val                Package                                                PosX       PosY       Rot  Side
+SW1          SW_SPDT            SW_SPDT_PCM12                                      114.4929     8.8950   90.0000  bottom
+U1           74HC165            TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias    77.4700     8.7025  180.0000  bottom
+jst_in1      Conn_01x05_Socket  JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal   137.8750     8.8950  -90.0000  bottom
+jst_out1     Conn_01x05_Socket  JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal    17.0650     8.8950   90.0000  bottom
+solder_in1   Conn_01x05_Pin     PinHeader_1x05_P2.54mm_Vertical                    150.5750    13.9700  180.0000  bottom
+solder_out1  Conn_01x05_Pin     PinHeader_1x05_P2.54mm_Vertical                      4.3650    13.9700  180.0000  bottom
+## End

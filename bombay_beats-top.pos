@@ -1,0 +1,22 @@
+### Footprint positions - created on 2024-04-17T16:32:32-0400 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                             PosX       PosY       Rot  Side
+R1        10K           R_0201_0603Metric                16.5900    13.8379   90.0000  top
+R2        10K           R_0201_0603Metric                34.7386    13.8379   90.0000  top
+R3        10K           R_0201_0603Metric                52.9214    13.8379   90.0000  top
+R4        10K           R_0201_0603Metric                71.0871    13.8379   90.0000  top
+R5        10K           R_0201_0603Metric                89.2529    13.8379   90.0000  top
+R6        10K           R_0201_0603Metric               107.4186    13.8379   90.0000  top
+R7        10K           R_0201_0603Metric               125.5843    13.8379   90.0000  top
+R8        10K           R_0201_0603Metric               143.7343    13.8379   90.0000  top
+btn_1     SW_Push_Dual  4.5_Push_Button_Switch_JLCPCB    13.8900     5.7129    0.0000  top
+btn_2     SW_Push_Dual  4.5_Push_Button_Switch_JLCPCB    32.0557     5.7129    0.0000  top
+btn_3     SW_Push_Dual  4.5_Push_Button_Switch_JLCPCB    50.2214     5.7129    0.0000  top
+btn_4     SW_Push_Dual  4.5_Push_Button_Switch_JLCPCB    68.3871     5.7129    0.0000  top
+btn_5     SW_Push_Dual  4.5_Push_Button_Switch_JLCPCB    86.5529     5.7129    0.0000  top
+btn_6     SW_Push_Dual  4.5_Push_Button_Switch_JLCPCB   104.7186     5.7129    0.0000  top
+btn_7     SW_Push_Dual  4.5_Push_Button_Switch_JLCPCB   122.8843     5.7129    0.0000  top
+btn_8     SW_Push_Dual  4.5_Push_Button_Switch_JLCPCB   141.0500     5.7129    0.0000  top
+## End
