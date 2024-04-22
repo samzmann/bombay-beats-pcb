@@ -538,7 +538,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -550,18 +550,54 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part number",
+          "name": "Part number",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "part_number",
+          "name": "part_number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
