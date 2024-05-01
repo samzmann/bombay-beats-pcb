@@ -838,7 +838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4fcc3c08-be63-4893-8823-ea574688e955")
-		(property "Reference" "btn_1"
+		(property "Reference" "SW1"
 			(at 54.61 35.56 0)
 			(effects
 				(font
@@ -881,16 +881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" "C2844397"
-			(at 54.61 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "part_number" ""
+		(property "LCSC Part # " "C2844397"
 			(at 54.61 45.72 0)
 			(effects
 				(font
@@ -914,35 +905,35 @@
 		(instances
 			(project "bombay_beats"
 				(path "/4c45dfb4-652a-4480-93b8-479ee7e6e64f/41fe3c3c-d1ff-4dee-bcd6-a6a4353b17df"
-					(reference "btn_1")
+					(reference "SW1")
 					(unit 1)
 				)
 				(path "/4c45dfb4-652a-4480-93b8-479ee7e6e64f/7aaabf71-2530-4c47-af9b-1b3a3fcc0dbe"
-					(reference "btn_2")
+					(reference "SW2")
 					(unit 1)
 				)
 				(path "/4c45dfb4-652a-4480-93b8-479ee7e6e64f/ec4cdd2b-0e1e-4a05-b262-de2f505c044c"
-					(reference "btn_3")
+					(reference "SW3")
 					(unit 1)
 				)
 				(path "/4c45dfb4-652a-4480-93b8-479ee7e6e64f/e3593ce6-8835-41bf-ab30-d5ac70060c5c"
-					(reference "btn_4")
+					(reference "SW4")
 					(unit 1)
 				)
 				(path "/4c45dfb4-652a-4480-93b8-479ee7e6e64f/114b802e-8df2-4f86-81c6-f2910a089ccb"
-					(reference "btn_5")
+					(reference "SW5")
 					(unit 1)
 				)
 				(path "/4c45dfb4-652a-4480-93b8-479ee7e6e64f/3f1c5d04-286c-4548-a304-525f1e16d060"
-					(reference "btn_6")
+					(reference "SW6")
 					(unit 1)
 				)
 				(path "/4c45dfb4-652a-4480-93b8-479ee7e6e64f/a52ff669-c3bc-4390-b97a-b0f65946cfe0"
-					(reference "btn_7")
+					(reference "SW7")
 					(unit 1)
 				)
 				(path "/4c45dfb4-652a-4480-93b8-479ee7e6e64f/fb229351-4db1-41bb-ad69-0d469bb47317"
-					(reference "btn_8")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -1096,17 +1087,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part number" "C328335"
+		(property "LCSC Part # " "C328335"
 			(at 72.39 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "part_number" ""
-			(at 72.39 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
