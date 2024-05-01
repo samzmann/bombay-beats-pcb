@@ -854,7 +854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CustomFootprints:4.5 Push Button Switch JLCPCB"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 54.61 38.1 0)
 			(effects
 				(font
@@ -1060,7 +1060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 72.644 42.164 90)
 			(effects
 				(font

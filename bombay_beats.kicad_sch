@@ -2577,7 +2577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_VH_B5P-VH-FB-B_1x05_P3.96mm_Vertical"
 			(at 168.91 106.68 0)
 			(effects
 				(font
@@ -3020,7 +3020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias"
+		(property "Footprint" "Package_DIP:DIP-16_W10.16mm"
 			(at 128.27 57.15 0)
 			(effects
 				(font
@@ -3273,7 +3273,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
+		(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
 			(at 104.14 22.86 0)
 			(effects
 				(font
@@ -3422,7 +3422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_VH_B5P-VH-FB-B_1x05_P3.96mm_Vertical"
 			(at 123.19 106.68 0)
 			(effects
 				(font
@@ -3508,7 +3508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
 			(at 142.24 30.7848 0)
 			(effects
 				(font
